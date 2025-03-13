@@ -1,0 +1,12 @@
+# Core numerical and scientific libraries
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Financial data collection
+yfinance>=0.1.63
+
+# Jupyter environment for interactive analysis
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
